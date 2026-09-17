@@ -1,0 +1,28 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+out/
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+*~
