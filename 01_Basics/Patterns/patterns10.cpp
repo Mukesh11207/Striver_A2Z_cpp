@@ -1,6 +1,14 @@
 #include <iostream>
 using namespace std;
-
+/* n = 4
+*
+**
+***
+****
+***
+**
+*
+*/
 class Solution {
 public:
     void pattern10(int n) {
