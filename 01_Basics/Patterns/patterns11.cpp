@@ -1,6 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+/*n = 4
+1 
+0 1 
+1 0 1 
+0 1 0 1 */
 class Solution {
 public:
     void pattern11(int n) {
