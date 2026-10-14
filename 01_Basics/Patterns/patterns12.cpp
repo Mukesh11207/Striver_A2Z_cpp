@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
-
+/*n = 4
+1      1
+12    21
+123  321
+12344321*/
 class Solution {
 public:
     void pattern12(int n) {
