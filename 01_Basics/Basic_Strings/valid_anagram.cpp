@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class Solution{	
 	public:
 		bool anagramStrings(string &s,string &t){
@@ -16,7 +15,7 @@ class Solution{
                 if(i != 0){
                     return false;
                 }
-            }
+            }//time complexity :- O(N),space complexity :- O(1)
             return true;
-		}
+		}//brute force with comparing sorted strings
 };
