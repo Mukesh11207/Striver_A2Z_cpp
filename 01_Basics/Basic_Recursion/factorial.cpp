@@ -8,4 +8,5 @@ class Solution{
             }
             return n * factorial(n - 1);
 		}
+        //time complexity :- O(N),space complexity :- O(N)-> call stack grows with each recursive call
 };
